@@ -9,7 +9,6 @@ This repository contains scripts and queries for analyzing farming operations da
 3. [Usage](#usage)
 4. [Data Analysis](#data-analysis)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 
 ## Installation and Setup
@@ -31,6 +30,3 @@ This repository contains scripts and queries for analyzing farming operations da
 ## Contributing
 - Contributions are welcome! Feel free to open an issue or submit a pull request.
 - Please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-
-Replace placeholders (e.g., `your-username`) with appropriate values and customize the sections based on your project's specifics. Feel free to add more sections or information as needed. Make sure to include a license that suits your project.
