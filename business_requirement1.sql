@@ -1,7 +1,7 @@
 Business Requirement 1: Crop Profitability Analysis
--- Given our crop yields and the varying environmental factors, which crops are most profitable across our farms? How might changes in soil, pest, or whether conditions project into future profitability?
+-- Given our crop yields and the varying environmental factors, which crops are most profitable across our farms? How might changes in soil, pest, or weather conditions project into future profitability?
 
-  -- Step 1: Which crops are the most profitable across our farms
+  -- Step 1: Which crops are the most profitable across our farm
 -- This step involves analyzing the current crop yields for each crop type to determine their current profitability.
 
 # Calculate the total and average crop yield per crop type
